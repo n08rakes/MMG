@@ -220,7 +220,7 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
-.course-section {
+.program-section {
   width: 100%;
   padding: 50px 0;
   color: white;
@@ -329,7 +329,8 @@ ol ol {
 .list-unstyled {
   padding-left: 0;
   list-style: none;
-  font-family: /*"Montserrat", "Helvetica Neue", Helvetica, Arial,*/ "sans-serif";
+  font-family: "Montserrat", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+  font-size: 0.8em;
 }
 .list-inline {
   padding-left: 0;
